@@ -19,3 +19,11 @@ Run ``` docker run -it <user>/<name>:<tag> /bin/bash ```
 Run ``` binwalk --help ```
 
 ```docker pull udawpk/binwalk```
+
+# Run via docker compose
+
+Install docker-compose on your OS from official site (docker, also)
+
+In folder with docker-compose.yml
+
+Run ``` docker-compose run hack```
